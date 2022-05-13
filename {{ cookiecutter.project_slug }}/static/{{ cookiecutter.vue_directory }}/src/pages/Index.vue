@@ -6,7 +6,7 @@
     <h1 class="title">Welcome to your Flask-Inertia Vue app.</h1>
     <p class="info">
       For more information please visit the
-      <a href="https://flask-inertia.readthedocs.io/en/v0.3/">documentation</a>
+      <a href="https://flask-inertia.readthedocs.io/">documentation</a>
     </p>
   </div>
 </template>
